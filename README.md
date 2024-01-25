@@ -22,7 +22,7 @@ month-wise in a sheet named "Working Sheet."
 
 Dashboard:
 
-![Excel dashboard ecommerce](https://github.com/PDilip777/Ecommerce-Sales-Project-Excel/assets/157594735/7d9956f0-b352-48da-bc86-8861f607f536).
+![Excel dashboard ecommerce](https://github.com/PDilip777/Ecommerce-Sales-Project-Excel/assets/157594735/7d9956f0-b352-48da-bc86-8861f607f536)
 
 OutPut:
 
