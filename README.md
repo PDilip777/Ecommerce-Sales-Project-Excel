@@ -20,6 +20,10 @@ month-wise in a sheet named "Working Sheet."
 3. Preparing a region-wise sales table in the "Working Sheet."
 4. Creating a user control combo box for selecting the product category.
 
+Dashboard:
+
+![Excel dashboard ecommerce](https://github.com/PDilip777/Ecommerce-Sales-Project-Excel/assets/157594735/7d9956f0-b352-48da-bc86-8861f607f536).
+
 OutPut:
 
 1. Developed a dynamic sales dashboard in Excel to analyse and report sales data by product categories.
