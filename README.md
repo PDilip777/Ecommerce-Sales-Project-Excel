@@ -22,6 +22,6 @@ month-wise in a sheet named "Working Sheet."
 
 OutPut:
 
-•	Developed a dynamic sales dashboard in Excel to analyse and report sales data by product categories.
-•	Utilized advanced Excel features to create visually captivating charts and pivot tables to effectively present sales data for decision-making.
-•	Constructed an interactive sales dashboard in Excel, empowering users to easily track monthly and product-wise sales trends.
+•	 Developed a dynamic sales dashboard in Excel to analyse and report sales data by product categories.
+•	 Utilized advanced Excel features to create visually captivating charts and pivot tables to effectively present sales data for decision-making.
+•	 Constructed an interactive sales dashboard in Excel, empowering users to easily track monthly and product-wise sales trends.
